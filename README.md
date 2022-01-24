@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JerryCotton
+- 👀 I’m interested in developing Arduino applications
